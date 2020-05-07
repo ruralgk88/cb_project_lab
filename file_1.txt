@@ -2,3 +2,6 @@ one more line
 my
 second
 attemp
+Hi Cherrie
+Just learning about cloning
+And forking 
